@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to bottom left, #afbabaa2 10%, #28d866);
+    background-image: linear-gradient(to bottom left, #afbabaa2 10%, #d88c28);
     font-family: 'Markazi Text', serif;
     margin-top: 3rem;
     margin-bottom: 3rem;
@@ -33,17 +33,17 @@ header>img {
     margin-right: auto;
 }
 
-nav ul {
+nav div{
     list-style: none;
     text-align: center;
-    background-color: grey;
+    background-image: linear-gradient(to bottom left, #1bdbdba2 10%, #d88c28);
     border-radius: 50px;
 }
 
 .hedi {
     display: block;
     margin-top: 0;
-    background-image: url("Murga.jpeg");
+    background-image: url("Asset\ 20@4x.png");
     border-radius: 10px;
 }
 
@@ -58,7 +58,7 @@ article {
 }
 
 article div {
-    background-color: #bbe4ec;
+    background-image: linear-gradient(to bottom left, #afbabaa2 10%, #d8d528);
     display: block;
     justify-content: space-evenly;
     margin: 3px;
@@ -71,9 +71,9 @@ article div img {
 
 footer {
     display: flex;
-    background-color: white;
+    background-image: linear-gradient(to bottom left, #afbabaa2 10%, #3b342b);
     margin-top: 0.2rem;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 footer img {
