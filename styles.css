@@ -8,23 +8,23 @@ body {
 }
 
 h1 {
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 p {
-    font-size: 1rem;
+    font-size: 0,5rem;
 }
 
 button {
     border: 0;
     border-radius: 10px;
-    background-color: #7edbff;
+    background-color: #cfbc0e;
     color: black;
 }
 
 button:hover {
-    color: #7edbff;
-    background-color: black;
+    color: #c72121;
+    background-color: rgb(8, 16, 85);
 }
 
 header>img {
@@ -34,9 +34,8 @@ header>img {
 }
 
 nav div{
-    list-style: none;
     text-align: center;
-    background-image: linear-gradient(to bottom left, #1bdbdba2 10%, #d88c28);
+    background-image: linear-gradient(to bottom left, #191b1ba2 20%, #d88c28);
     border-radius: 50px;
 }
 
